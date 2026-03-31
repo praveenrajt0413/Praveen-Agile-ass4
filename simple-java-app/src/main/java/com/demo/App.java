@@ -1,3 +1,5 @@
+package com.demo;
+
 public class App {
 
     public String getMessage() {
